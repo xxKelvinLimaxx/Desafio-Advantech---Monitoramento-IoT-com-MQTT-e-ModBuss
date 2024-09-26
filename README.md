@@ -15,8 +15,7 @@ Este projeto foi desenvolvido como parte de um desafio no estágio na Advantech.
 
 ## Arquitetura da Solução
 
-Esta foi a Arquitetura Proposta para solucionar o Desafio:
-(ArquiteturaDesafio.png)
+![Diagrama da Arquitetura do Desafio](Arquitetura%20Desafio.png)
 
 ## Passo a Passo da Implementação
 
