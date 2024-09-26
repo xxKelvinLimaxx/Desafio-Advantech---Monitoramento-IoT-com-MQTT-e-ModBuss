@@ -15,7 +15,8 @@ Este projeto foi desenvolvido como parte de um desafio no estágio na Advantech.
 
 ## Arquitetura da Solução
 
-![Diagrama do Projeto](C:\Users\Kelvin.Lima\OneDrive - advantech\Documentos\Pasta de Documentação do Desafio)
+Esta foi a Arquitetura Proposta para solucionar o Desafio:
+(ArquiteturaDesafio.png)
 
 ## Passo a Passo da Implementação
 
